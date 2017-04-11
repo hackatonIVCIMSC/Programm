@@ -56,4 +56,4 @@ http://www.lafede.cat/
 * Voting
 * Winning awards
 
-Click here to register your team
+[Click here to register your team](https://github.com/hackatonIVCIMSC/Programm/blob/master/hackatonRegistration.docx?raw=true)
