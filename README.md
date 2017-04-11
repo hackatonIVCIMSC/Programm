@@ -1,6 +1,11 @@
 # Hackathon
 
-A follow up of the IV International Conference on Social and Complementary Currencies. An occasion to join teams on advanced software developments for complementary currencies, tools for the social economy and entrepreneurship. An opportunity to develop tools inspired by the practices and needs learned during the Conference. An opportunity to improve jointly existing platforms and solutions. An opportunity to test new technologies. An opportunity to test new concepts. 
+![IV International Conference on Social and Complementary Currencies](https://symposium.uoc.edu/_files/_event/_3642/_editorFiles/file/logo-conferencia-eng-02.png)
+
+A follow up of the **IV International Conference on Social and Complementary Currencies**  
+https://symposium.uoc.edu/event_detail/3642/detail/iv-conferencia-internacional-de-monedas-sociales-y-complementarias_-dinero-conciencia-y-valores-par.html
+
+An occasion to join teams on advanced software developments for complementary currencies, tools for the social economy and entrepreneurship. An opportunity to develop tools inspired by the practices and needs learned during the Conference. An opportunity to improve jointly existing platforms and solutions. An opportunity to test new technologies. An opportunity to test new concepts. 
 
 # Presentation
 13th May, 17:00, Parc Tecnològic Nou Barris
